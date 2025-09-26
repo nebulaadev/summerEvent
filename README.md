@@ -12,4 +12,4 @@ Summer event farm with reconnect on connection loss, webhook integration, GUI th
 nebulaa's hub https://discord.gg/bU9JDFSZxJ  
 
 
-  Trojans not included 😂
+  Trojans not included 😂🏹
